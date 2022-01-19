@@ -1,0 +1,9 @@
+# 01 / 20 / 2022
+# 두 자연수 A와 B가 주어진다. 이때, A+B, A-B, A*B, A/B(몫), A%B(나머지)를 출력하는 프로그램을 작성하시오. 
+
+A, B = map(int, input().split())
+print(A + B)
+print(A - B)
+print(A * B)
+print(A // B)  # 나눗셈의 "몫"을 출력해야 한다는 점을 잊지 말자!
+print(A % B)

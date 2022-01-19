@@ -2,5 +2,4 @@
 
 Enjoy!
 
-![](C:\Users\drsuneamer\Desktop\BOJ\README.assets\PinguGetsaBicycle.jpg)
-
+![image-20220120000026182](README.assets/image-20220120000026182.png)
