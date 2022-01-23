@@ -1,4 +1,6 @@
-# BOJ
+# BOJ 
+
+> [@sunyeong0412](https://www.acmicpc.net/user/sunyeong0412)
 
 Enjoy!
 
