@@ -1,6 +1,6 @@
 # [BOJ](https://www.acmicpc.net/) 
 
-> [@sunyeong0412](https://www.acmicpc.net/user/sunyeong0412)
+> P [@sunyeong0412](https://www.acmicpc.net/user/sunyeong0412) J [@drsuneamer](https://www.acmicpc.net/user/drsuneamer)
 
 Enjoy!
 
