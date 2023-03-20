@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class B9663 {
     static int N;
     static int ans;
